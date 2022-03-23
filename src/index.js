@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import { Tabla } from './Tabla.js';
+import Tab from './Tab.js';
 
 ReactDOM.render(
-  <Tabla />,
+  <Tab />,
   document.getElementById('root')
 );
